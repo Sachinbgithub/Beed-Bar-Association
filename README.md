@@ -1,2 +1,1 @@
-# Beed-Bar-Association
-website for Beed District Bar Association
+Responsive Website on Indian Law Information System using HTML, CSS &amp; JS
